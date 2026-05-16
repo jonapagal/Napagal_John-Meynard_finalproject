@@ -45,11 +45,13 @@
 ‎
 ‎
 ‎Screenshots:
+
+<img width="300" height="400" alt="Screenshot_20260513-223640" src="https://github.com/user-attachments/assets/c2bc1ff8-ae06-4ec5-8d9c-2877b9383696" />
+
+<img width="300" height="400" alt="Screenshot_20260513-223645" src="https://github.com/user-attachments/assets/45ec41e3-e521-4a5b-9aee-7a5a66eae1de" />
+
 ‎
-‎
-‎
-‎
-‎Python Concepts Used
+‎‎Python Concepts Used
 ‎
 ‎- Classes and Objects
 ‎- Lists and Dictionaries
